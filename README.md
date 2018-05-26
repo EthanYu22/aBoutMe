@@ -1,7 +1,6 @@
 # aBoutMe
 Website Idea based off Ask.fm
 
-
 **Install Python & Django on Windows Tutorial**
 [Here](https://www.codingforentrepreneurs.com/blog/install-python-django-on-windows/)
 
@@ -13,3 +12,5 @@ Website Idea based off Ask.fm
 - cd dev
 - source bin/activate
 - python manage.py runserver
+
+**Versions:** Python 3.6.5 / Django 2.0.5
