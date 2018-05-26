@@ -10,6 +10,6 @@ Website Idea based off Ask.fm
 
 
 To Run App:
-> cd dev
-> source bin/activate
-> python manage.py runserver
+- cd dev
+- source bin/activate
+- python manage.py runserver
