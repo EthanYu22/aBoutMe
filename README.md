@@ -9,7 +9,7 @@ Website Idea based off Ask.fm
 [Here](https://www.codingforentrepreneurs.com/blog/install-django-on-mac-or-linux/)
 
 
-To Run App:
+**To Run App:**
 - cd dev
 - source bin/activate
 - python manage.py runserver
